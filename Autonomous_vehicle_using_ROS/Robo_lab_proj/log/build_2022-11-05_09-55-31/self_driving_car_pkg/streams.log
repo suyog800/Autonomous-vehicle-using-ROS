@@ -1,0 +1,25 @@
+[0.681s] Invoking command in '/home/suyog/Robo_lab_proj/self_driving_car_pkg': PYTHONPATH=/home/suyog/Robo_lab_proj/install/self_driving_car_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/self_driving_car_pkg build --build-base /home/suyog/Robo_lab_proj/build/self_driving_car_pkg/build install --prefix /home/suyog/Robo_lab_proj/install/self_driving_car_pkg --record /home/suyog/Robo_lab_proj/build/self_driving_car_pkg/install.log --single-version-externally-managed
+[0.852s] running egg_info
+[0.853s] writing ../build/self_driving_car_pkg/self_driving_car_pkg.egg-info/PKG-INFO
+[0.853s] writing dependency_links to ../build/self_driving_car_pkg/self_driving_car_pkg.egg-info/dependency_links.txt
+[0.854s] writing entry points to ../build/self_driving_car_pkg/self_driving_car_pkg.egg-info/entry_points.txt
+[0.854s] writing requirements to ../build/self_driving_car_pkg/self_driving_car_pkg.egg-info/requires.txt
+[0.854s] writing top-level names to ../build/self_driving_car_pkg/self_driving_car_pkg.egg-info/top_level.txt
+[0.888s] reading manifest file '../build/self_driving_car_pkg/self_driving_car_pkg.egg-info/SOURCES.txt'
+[0.889s] writing manifest file '../build/self_driving_car_pkg/self_driving_car_pkg.egg-info/SOURCES.txt'
+[0.889s] running build
+[0.889s] running build_py
+[0.894s] running install
+[0.894s] running install_lib
+[0.901s] running install_data
+[0.902s] running install_egg_info
+[0.903s] removing '/home/suyog/Robo_lab_proj/install/self_driving_car_pkg/lib/python3.8/site-packages/self_driving_car_pkg-0.0.0-py3.8.egg-info' (and everything under it)
+[0.904s] Copying ../build/self_driving_car_pkg/self_driving_car_pkg.egg-info to /home/suyog/Robo_lab_proj/install/self_driving_car_pkg/lib/python3.8/site-packages/self_driving_car_pkg-0.0.0-py3.8.egg-info
+[0.905s] running install_scripts
+[0.918s] Installing computer_vision_node script to /home/suyog/Robo_lab_proj/install/self_driving_car_pkg/lib/self_driving_car_pkg
+[0.919s] Installing sdc_V2 script to /home/suyog/Robo_lab_proj/install/self_driving_car_pkg/lib/self_driving_car_pkg
+[0.919s] Installing spawner_node script to /home/suyog/Robo_lab_proj/install/self_driving_car_pkg/lib/self_driving_car_pkg
+[0.919s] Installing upper_camera_recording script to /home/suyog/Robo_lab_proj/install/self_driving_car_pkg/lib/self_driving_car_pkg
+[0.919s] Installing video_recording_node script to /home/suyog/Robo_lab_proj/install/self_driving_car_pkg/lib/self_driving_car_pkg
+[0.920s] writing list of installed files to '/home/suyog/Robo_lab_proj/build/self_driving_car_pkg/install.log'
+[0.942s] Invoked command in '/home/suyog/Robo_lab_proj/self_driving_car_pkg' returned '0': PYTHONPATH=/home/suyog/Robo_lab_proj/install/self_driving_car_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/self_driving_car_pkg build --build-base /home/suyog/Robo_lab_proj/build/self_driving_car_pkg/build install --prefix /home/suyog/Robo_lab_proj/install/self_driving_car_pkg --record /home/suyog/Robo_lab_proj/build/self_driving_car_pkg/install.log --single-version-externally-managed
